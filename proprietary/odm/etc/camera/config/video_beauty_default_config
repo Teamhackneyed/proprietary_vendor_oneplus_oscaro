@@ -1,0 +1,36 @@
+{
+    "isFunctionOpen":1,
+    "isParamAdjustOpen":1,
+    "appConfigList": [
+        {
+         "appName":"WeChat",
+         "packageName":"com.tencent.mm",
+         "videoBeautyParam":
+            {
+                "isOpen": 0,
+                "fbParam": "0,0,0,0,0,0,0,0,0,0,0",
+                "activityName": "tencent"
+            }
+        },
+        {
+         "appName":"Facebook Messenger",
+         "packageName":"com.facebook.orca",
+         "videoBeautyParam":
+            {
+                "isOpen": 0,
+                "fbParam": "0,0,0,0,0,0,0,0,0,0,0",
+                "activityName": "InCall"
+            }
+        },
+        {
+         "appName":"WhatsApp",
+         "packageName":"com.whatsapp",
+         "videoBeautyParam":
+            {
+                "isOpen": 0,
+                "fbParam": "0,0,0,0,0,0,0,0,0,0,0",
+                "activityName": "Voip"
+            }
+        }
+    ]
+}

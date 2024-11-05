@@ -1,0 +1,47 @@
+{
+    "module": "previewSeg",
+    "comment":
+    [
+        "QCOM performanceMode(BALANCED , HIGH_PERFORMANCE , POWER_SAVER , SYSTEM_SETTINGS , SUSTAINED_HIGH_PERFORMANCE ,",
+        "BURST , LOW_POWER_SAVER , HIGH_POWER_SAVER , LOW_BALANCED)",
+        "MTK performanceMode(kLowPower , kFastSingleAnswer , kSustainedSpeed)"
+    ],
+    "product": "6375",
+    "VENDOR": "QCOM",
+    "SNPE_VERSION": "1.52.0.2724",
+    "param":
+    [
+        {
+            "product_name": "5GB",
+            "SegMode": "DSP",
+            "Resolution":224,
+            "PerformanceMode":"kSustainedSpeed",
+            "DynamicFrames": true,
+            "DropFrames": false
+        },
+        {
+            "product_name": "8250",
+            "SegMode": "DSP",
+            "Resolution":224,
+            "PerformanceMode":"POWER_SAVER",
+            "DynamicFrames": true,
+            "DropFrames": false
+        },
+        {
+            "product_name": "870",
+            "SegMode": "DSP",
+            "Resolution":224,
+            "PerformanceMode":"POWER_SAVER",
+            "DynamicFrames": true,
+            "DropFrames": false
+        },
+        {
+            "product_name": "6375",
+            "SegMode": "DSP",
+            "Resolution":224,
+            "PerformanceMode":"POWER_SAVER",
+            "DynamicFrames": true,
+            "DropFrames": false
+        }
+    ]
+}
