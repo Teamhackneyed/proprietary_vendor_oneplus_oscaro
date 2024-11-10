@@ -7521,7 +7521,7 @@ cc_prebuilt_library_shared {
                 "liblog",
                 "libc",
                 "libm",
-                "libstdc++",
+                "libstdc++_vendor",
             ],
         },
     },
